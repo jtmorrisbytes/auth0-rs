@@ -1,0 +1,13 @@
+[package]
+name = "auth0-rs"
+version = "9.14.0"
+authors = ["Jordan Morris <jtmorrisbytes@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate_type=["cdylib","rlib"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
